@@ -1,0 +1,354 @@
+Auflistung der Ordnerpfade fr Volume WINDOWS
+Volumeseriennummer : 9651-7937
+C:.
+³   .gitignore
+³   mvnw
+³   mvnw.cmd
+³   pom.xml
+³   tree.txt
+³   
+ÃÄÄÄ.git
+³   ³   config
+³   ³   description
+³   ³   FETCH_HEAD
+³   ³   HEAD
+³   ³   index
+³   ³   ORIG_HEAD
+³   ³   
+³   ÃÄÄÄhooks
+³   ³       applypatch-msg.sample
+³   ³       commit-msg.sample
+³   ³       fsmonitor-watchman.sample
+³   ³       post-update.sample
+³   ³       pre-applypatch.sample
+³   ³       pre-commit.sample
+³   ³       pre-merge-commit.sample
+³   ³       pre-push.sample
+³   ³       pre-rebase.sample
+³   ³       pre-receive.sample
+³   ³       prepare-commit-msg.sample
+³   ³       push-to-checkout.sample
+³   ³       update.sample
+³   ³       
+³   ÃÄÄÄinfo
+³   ³       exclude
+³   ³       
+³   ÃÄÄÄlogs
+³   ³   ³   HEAD
+³   ³   ³   
+³   ³   ÀÄÄÄrefs
+³   ³       ÃÄÄÄheads
+³   ³       ³       master
+³   ³       ³       
+³   ³       ÀÄÄÄremotes
+³   ³           ÀÄÄÄorigin
+³   ³                   Additionen
+³   ³                   
+³   ÃÄÄÄobjects
+³   ³   ÃÄÄÄ01
+³   ³   ³       a5fb9e890d82eb2d64a38f771419126fd4031f
+³   ³   ³       
+³   ³   ÃÄÄÄ03
+³   ³   ³       2d7c0bde6d989f26040b3c75bfb6c0607a1c93
+³   ³   ³       
+³   ³   ÃÄÄÄ05
+³   ³   ³       a5b47db870acdbf259e68ad22d280292cb9915
+³   ³   ³       
+³   ³   ÃÄÄÄ07
+³   ³   ³       bf65bce992968b5b22529a99dd36c985d2f95b
+³   ³   ³       
+³   ³   ÃÄÄÄ0c
+³   ³   ³       5fe72167a84054832ff1c294d2304e72b246c3
+³   ³   ³       
+³   ³   ÃÄÄÄ10
+³   ³   ³       6169ae56b10060157c02e4e4e1d00865b50e14
+³   ³   ³       
+³   ³   ÃÄÄÄ1a
+³   ³   ³       49faf3a091f79c906d3d7398b211df9d22f724
+³   ³   ³       
+³   ³   ÃÄÄÄ1b
+³   ³   ³       6ec333806dcd2ca1ec1a8c9894b21eb08a418c
+³   ³   ³       
+³   ³   ÃÄÄÄ1d
+³   ³   ³       8ab018eaf11d9b3a4a90e7818ace373dfbb380
+³   ³   ³       
+³   ³   ÃÄÄÄ1e
+³   ³   ³       07f796e2b67a931da50f043b6fbaf479fc976a
+³   ³   ³       
+³   ³   ÃÄÄÄ1f
+³   ³   ³       d45b5170597daeca21a56d1cc62903e2b840c2
+³   ³   ³       
+³   ³   ÃÄÄÄ23
+³   ³   ³       4c6f781bf8de03457b1447d1286c9c02341a53
+³   ³   ³       
+³   ³   ÃÄÄÄ26
+³   ³   ³       d33521af10bcc7fd8cea344038eaaeb78d0ef5
+³   ³   ³       
+³   ³   ÃÄÄÄ29
+³   ³   ³       5ea9b754c09d69ec915dd0233f6493cfd710d5
+³   ³   ³       
+³   ³   ÃÄÄÄ2b
+³   ³   ³       63946d5b31084bbb7dda418ceb3d75eb686373
+³   ³   ³       
+³   ³   ÃÄÄÄ2e
+³   ³   ³       d936f0ed9b5b03cb482a0db57b87e131682905
+³   ³   ³       
+³   ³   ÃÄÄÄ31
+³   ³   ³       6742538b1361551f3acb3d253e9b058599faee
+³   ³   ³       
+³   ³   ÃÄÄÄ35
+³   ³   ³       eb1ddfbbc029bcab630581847471d7f238ec53
+³   ³   ³       
+³   ³   ÃÄÄÄ36
+³   ³   ³       05d99346bbc200ab6681372d50569632f5dbd0
+³   ³   ³       
+³   ³   ÃÄÄÄ37
+³   ³   ³       4dcd81bee3c5c8125c1b2b7c54cc5de05a3188
+³   ³   ³       
+³   ³   ÃÄÄÄ38
+³   ³   ³       8f0e83a20f4ffe4b9b0ff34f280f51d7187df7
+³   ³   ³       
+³   ³   ÃÄÄÄ3e
+³   ³   ³       00534f0e87839974fa4c69459c63bc057f61f1
+³   ³   ³       
+³   ³   ÃÄÄÄ40
+³   ³   ³       ca0155f714d58a8b51693db47b5d80821bad4c
+³   ³   ³       
+³   ³   ÃÄÄÄ4b
+³   ³   ³       825dc642cb6eb9a060e54bf8d69288fbee4904
+³   ³   ³       
+³   ³   ÃÄÄÄ4f
+³   ³   ³       15df89d45d79e01fd364e82af61456c1fdf6a3
+³   ³   ³       
+³   ³   ÃÄÄÄ50
+³   ³   ³       a83e367ffc736b7677b77ddf8bb8f879ac0111
+³   ³   ³       
+³   ³   ÃÄÄÄ51
+³   ³   ³       f04c684d13b792327e56a83591ba2531cae934
+³   ³   ³       
+³   ³   ÃÄÄÄ52
+³   ³   ³       39ec316e7f35d293fc77ebb6753e3abfff6f12
+³   ³   ³       
+³   ³   ÃÄÄÄ53
+³   ³   ³       d160c40cbde32fd25a745b3bc7ce3e738a6f31
+³   ³   ³       
+³   ³   ÃÄÄÄ55
+³   ³   ³       945637b545b2889c25df11ebf65b05fe83542c
+³   ³   ³       
+³   ³   ÃÄÄÄ56
+³   ³   ³       ca1b50fe1c7a6a6a6c3774b72ae920253ffb5d
+³   ³   ³       
+³   ³   ÃÄÄÄ5b
+³   ³   ³       493aa093c83e841dd4efe76a78785c579b521a
+³   ³   ³       
+³   ³   ÃÄÄÄ5c
+³   ³   ³       aaef8b67ed54953b5ea6b4ab9293d1c6e64822
+³   ³   ³       bb0ffde6de070f0d2a09e2bfe5c1cf7a82c967
+³   ³   ³       
+³   ³   ÃÄÄÄ5f
+³   ³   ³       f6309b7199129c1afe4f4ec1906e640bec48c6
+³   ³   ³       
+³   ³   ÃÄÄÄ63
+³   ³   ³       d372a0f59a7397ec48005b728c254f0fa2c505
+³   ³   ³       
+³   ³   ÃÄÄÄ69
+³   ³   ³       13dc19a67b76163226bbd33573283f9fe6a7f2
+³   ³   ³       
+³   ³   ÃÄÄÄ6b
+³   ³   ³       4708b334cdbe22b8b47de22269503175c3e418
+³   ³   ³       
+³   ³   ÃÄÄÄ6e
+³   ³   ³       5f300f4230bb99fedb05b262d0ba67185e985b
+³   ³   ³       
+³   ³   ÃÄÄÄ70
+³   ³   ³       1ca8add180502bd1fa8ad8845b7728e680f8ac
+³   ³   ³       
+³   ³   ÃÄÄÄ71
+³   ³   ³       84e65762c2c026ef512ee0404c0242b8b5c252
+³   ³   ³       
+³   ³   ÃÄÄÄ85
+³   ³   ³       a1e08b9cdf76edf0bbf0cdf553ca5baf77e372
+³   ³   ³       
+³   ³   ÃÄÄÄ8a
+³   ³   ³       8fb2282df5b8f7263470a5a2dc0e196f35f35f
+³   ³   ³       
+³   ³   ÃÄÄÄ8b
+³   ³   ³       943f7b4012e9985585d5279d7b7ff2c5d5eb96
+³   ³   ³       ac9ec462a8fb02cb30cccd02f4912489d235f9
+³   ³   ³       
+³   ³   ÃÄÄÄ93
+³   ³   ³       3a891d1172809d89a9262ce639851f0a933d75
+³   ³   ³       
+³   ³   ÃÄÄÄ96
+³   ³   ³       ab665a172a55a0da295075dbc3c4caf8e5df96
+³   ³   ³       
+³   ³   ÃÄÄÄ99
+³   ³   ³       64fc8120c0d8c80ca69e86759d56d5ec8a782e
+³   ³   ³       
+³   ³   ÃÄÄÄa4
+³   ³   ³       12a2faf2a480c9352e95e0b3c194077ef36736
+³   ³   ³       
+³   ³   ÃÄÄÄa5
+³   ³   ³       36c3891ee4b9b86c24f9c916a2dc8860ba5df6
+³   ³   ³       
+³   ³   ÃÄÄÄa7
+³   ³   ³       6829b340120094623ec5730562db229fe7d470
+³   ³   ³       
+³   ³   ÃÄÄÄa8
+³   ³   ³       81dd1d82cbf3d3508b63d9c71ca7043f86499e
+³   ³   ³       a13c4dce9403709f47601e9e6270986975b404
+³   ³   ³       
+³   ³   ÃÄÄÄaa
+³   ³   ³       00ffab7828f4818589659c804ec2cfd99baed3
+³   ³   ³       6ce6c16ac81a5a6cee8ef04bc3a6579d329be8
+³   ³   ³       
+³   ³   ÃÄÄÄb0
+³   ³   ³       66a04235e909bb17b72f0f9988bf99451bcbc2
+³   ³   ³       
+³   ³   ÃÄÄÄb4
+³   ³   ³       7053cbfd42e499c48243e214b1b56f71a3b95d
+³   ³   ³       
+³   ³   ÃÄÄÄb6
+³   ³   ³       5b82495d692e953cb5af4185da96abd3ad30db
+³   ³   ³       
+³   ³   ÃÄÄÄc0
+³   ³   ³       21613d48099e7fdd64cd5a369e212112dc827d
+³   ³   ³       
+³   ³   ÃÄÄÄc1
+³   ³   ³       dd12f17644411d6e840bd5a10c6ecda0175f18
+³   ³   ³       
+³   ³   ÃÄÄÄc2
+³   ³   ³       7f63b557a852142c51d03a67283a832694f24a
+³   ³   ³       
+³   ³   ÃÄÄÄc8
+³   ³   ³       68f8ef94dcd056075967c3f63ad443660fb4a5
+³   ³   ³       
+³   ³   ÃÄÄÄce
+³   ³   ³       b13ef1fc4561d25059e9d5bb9d3fcd621ade13
+³   ³   ³       
+³   ³   ÃÄÄÄd0
+³   ³   ³       8bd2f2ef8e7df20374ffe969946f20cf9de09e
+³   ³   ³       
+³   ³   ÃÄÄÄd4
+³   ³   ³       2ed5c04e058fe1ee3bf7a559a2015cda301b44
+³   ³   ³       8a746416f645c88b15f6b430f438609fa54c38
+³   ³   ³       9326339f049a3c012ee301258a15cfeb336310
+³   ³   ³       
+³   ³   ÃÄÄÄd7
+³   ³   ³       589195d9a3109b6a6e29bf6dadffe28a6484e0
+³   ³   ³       
+³   ³   ÃÄÄÄd8
+³   ³   ³       43f340d228380d0809b446083dfc066e5de60a
+³   ³   ³       
+³   ³   ÃÄÄÄe0
+³   ³   ³       0d1b2408812976176c0e1e693046ced6c06432
+³   ³   ³       
+³   ³   ÃÄÄÄe1
+³   ³   ³       064d195fa1d9a6d920c5a6400d84b4698bc8ac
+³   ³   ³       22deaa15a27973ecf919ace5c329928c3d56ac
+³   ³   ³       
+³   ³   ÃÄÄÄe7
+³   ³   ³       039803c7feb6fdd4c1e616f6c9c0ea59879619
+³   ³   ³       
+³   ³   ÃÄÄÄe8
+³   ³   ³       f7de47baa28c2621e3372b9891e2526b82f9e1
+³   ³   ³       
+³   ³   ÃÄÄÄe9
+³   ³   ³       c40068e820c9f4deb761ba86fd5d23e19acfcf
+³   ³   ³       
+³   ³   ÃÄÄÄeb
+³   ³   ³       b06cf80e208bc7cf3973b0015191127eb9c40e
+³   ³   ³       
+³   ³   ÃÄÄÄf1
+³   ³   ³       42aacedc911e70469f712832d9bb114b707c18
+³   ³   ³       ffd20899e3448605bff5d3bac89563cdff7fa2
+³   ³   ³       
+³   ³   ÃÄÄÄf3
+³   ³   ³       4e3fdb35cadedea1b0676644547b75eb047215
+³   ³   ³       
+³   ³   ÃÄÄÄfc
+³   ³   ³       c048f9d86c0c743c71d375e36bc49d2ba1f6f4
+³   ³   ³       
+³   ³   ÃÄÄÄff
+³   ³   ³       476febef3b970057e0b424704c08eb543484bb
+³   ³   ³       
+³   ³   ÃÄÄÄinfo
+³   ³   ÀÄÄÄpack
+³   ÀÄÄÄrefs
+³       ÃÄÄÄheads
+³       ³       master
+³       ³       
+³       ÃÄÄÄremotes
+³       ³   ÀÄÄÄorigin
+³       ³           Additionen
+³       ³           
+³       ÀÄÄÄtags
+ÃÄÄÄ.idea
+³       .gitignore
+³       compiler.xml
+³       encodings.xml
+³       jarRepositories.xml
+³       misc.xml
+³       uiDesigner.xml
+³       vcs.xml
+³       workspace.xml
+³       
+ÃÄÄÄ.mvn
+³   ÀÄÄÄwrapper
+³           maven-wrapper.jar
+³           maven-wrapper.properties
+³           
+ÃÄÄÄsrc
+³   ÀÄÄÄmain
+³       ÃÄÄÄjava
+³       ³   ³   module-info.java
+³       ³   ³   
+³       ³   ÀÄÄÄcom
+³       ³       ÀÄÄÄexample
+³       ³           ÀÄÄÄdoit_musikplayer
+³       ³               ³   Application.java
+³       ³               ³   
+³       ³               ÃÄÄÄcontroller
+³       ³               ³       FolderNavigationController.java
+³       ³               ³       MainController.java
+³       ³               ³       MediaButtonController.java
+³       ³               ³       QueueController.java
+³       ³               ³       
+³       ³               ÃÄÄÄmodel
+³       ³               ³       Playlist.java
+³       ³               ³       Queue.java
+³       ³               ³       Song.java
+³       ³               ³       
+³       ³               ÃÄÄÄservices
+³       ³               ³       FileBrowserService.java
+³       ³               ³       MediaButtonService.java
+³       ³               ³       MediaPlaybackService.java
+³       ³               ³       QueueService.java
+³       ³               ³       
+³       ³               ÀÄÄÄview
+³       ÀÄÄÄresources
+³           ÀÄÄÄcom
+³               ÀÄÄÄexample
+³                   ÀÄÄÄdoit_musikplayer
+³                           view.fxml
+³                           
+ÀÄÄÄtarget
+    ÃÄÄÄclasses
+    ³   ³   module-info.class
+    ³   ³   
+    ³   ÀÄÄÄcom
+    ³       ÀÄÄÄexample
+    ³           ÀÄÄÄdoit_musikplayer
+    ³               ³   Application.class
+    ³               ³   view.fxml
+    ³               ³   
+    ³               ÃÄÄÄcontroller
+    ³               ³       Controller.class
+    ³               ³       
+    ³               ÀÄÄÄmodel
+    ³                       Playlist.class
+    ³                       Queue.class
+    ³                       Song.class
+    ³                       
+    ÀÄÄÄgenerated-sources
+        ÀÄÄÄannotations
