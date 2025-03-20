@@ -18,6 +18,13 @@ private void createTreeView(String treeViewPath){
 
 
     }
+
+    public void selectItem(){
+
+
+
+    }
+//<TreeView fx:id="folderTreeView" onMouseClicked="#handleFolderSelection"/>
 }
 
 //<TreeView fx:id="folderTreeView" onMouseClicked="#handleFolderSelection"/>
